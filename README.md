@@ -26,7 +26,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
     ```
 2. Navegue até o diretório do projeto:
 
-cd nome-do-repositorio
+    ```
+   cd nome-do-repositorio
+    ```
+
 
 3. Instale as dependências:
 
@@ -44,9 +47,15 @@ cd nome-do-repositorio
 
 para iniciar o servidor de desenvolvimento, execute;
 
-npm run serve   
+    
+    npm run serve
+
 ou
-yarn serve
+
+    yarn serve
+
+
+
 
 A aplicação estará disponível em http://localhost:8080.
 
