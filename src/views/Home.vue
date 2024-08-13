@@ -29,7 +29,7 @@ export default {
   },
   data() {
     return {
-      publishableKey: 'your_Ppk_test',
+      publishableKey: 'your_pk_test',
       successURL:'http://localhost:8080/success',
       cancelURL:'http://localhost:8080/error',
       loading: false,
